@@ -8,7 +8,7 @@ DailyForge is designed to be simple, calming, and focused — and getting suppor
 ## 📩 Contact Support
 If you experience issues, have questions, or want to request new features, you can reach me at:
 
-**📧 Email:** michael.geehan@icloud.com
+**📧 Email:** jadarkmg@gmail.com
 
 ---
 
